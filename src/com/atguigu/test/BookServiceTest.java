@@ -32,7 +32,7 @@ public class BookServiceTest {
                     "1125",
                     new BigDecimal(999999),
                     10,
-                    111110,
+                    1111103124,
                     null));
         }
         @Test
